@@ -62,6 +62,7 @@ export default {
         {
           quizText: '問題文1',
           answerList: [ '答えA', '答えB', '答えC', '答えD', ],
+          answer: 0
         },
         {
           quizText: '問題文2',
